@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #f1c40f;
+}
+
+body {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #ecf0f1;
+}
